@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IW8AtnzLOelRqAQsrsVCVwinFUwPY9KUeedCSRrbLe0rjk/w6qrqsELNvaTm/GOMVuswSnjFDPtrrHjR+/OGOw==",
+  "dgSpecHash": "0EgkOQENSqmA58Pg3GdFjuZ31SAQgunaR5DV8fTE0psqqD3+5V4Yj31k+N8NhLoEQUxECp5VgLczkUcXTFWrxg==",
   "success": true,
-  "projectFilePath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.DataLayer\\AUA.ProjectName.DataLayer.csproj",
+  "projectFilePath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DataLayer\\AUA.ProjectName.DataLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arezo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Arezo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

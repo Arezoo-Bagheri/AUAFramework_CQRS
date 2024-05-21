@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj": {}
+    "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj": {}
   },
   "projects": {
-    "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj": {
+    "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj",
+        "projectUniqueName": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj",
         "projectName": "AUA.ProjectName.Common",
-        "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj",
+        "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj",
         "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-        "outputPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Common\\obj\\",
+        "outputPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

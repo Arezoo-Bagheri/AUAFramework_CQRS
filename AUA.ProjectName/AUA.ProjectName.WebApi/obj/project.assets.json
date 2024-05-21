@@ -6642,11 +6642,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj",
+      "projectUniqueName": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj",
       "projectName": "AUA.ProjectName.WebApi",
-      "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj",
+      "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj",
       "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-      "outputPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.WebApi\\obj\\",
+      "outputPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6666,17 +6666,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.BackgroundServices\\AUA.ProjectName.BackgroundServices.csproj": {
-              "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.BackgroundServices\\AUA.ProjectName.BackgroundServices.csproj"
+            "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.BackgroundServices\\AUA.ProjectName.BackgroundServices.csproj": {
+              "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.BackgroundServices\\AUA.ProjectName.BackgroundServices.csproj"
             },
-            "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.CommandHandler\\AUA.ProjectName.CommandHandler.csproj": {
-              "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.CommandHandler\\AUA.ProjectName.CommandHandler.csproj"
+            "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.CommandHandler\\AUA.ProjectName.CommandHandler.csproj": {
+              "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.CommandHandler\\AUA.ProjectName.CommandHandler.csproj"
             },
-            "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.QueryHandler\\AUA.ProjectName.QueryHandler.csproj": {
-              "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.QueryHandler\\AUA.ProjectName.QueryHandler.csproj"
+            "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.QueryHandler\\AUA.ProjectName.QueryHandler.csproj": {
+              "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.QueryHandler\\AUA.ProjectName.QueryHandler.csproj"
             },
-            "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.ReportHandler\\AUA.ProjectName.ReportHandler.csproj": {
-              "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.ReportHandler\\AUA.ProjectName.ReportHandler.csproj"
+            "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.ReportHandler\\AUA.ProjectName.ReportHandler.csproj": {
+              "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.ReportHandler\\AUA.ProjectName.ReportHandler.csproj"
             }
           }
         }

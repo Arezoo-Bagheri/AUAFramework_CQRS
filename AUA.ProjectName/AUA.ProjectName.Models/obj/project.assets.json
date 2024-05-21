@@ -1181,11 +1181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj",
+      "projectUniqueName": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj",
       "projectName": "AUA.ProjectName.Models",
-      "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj",
+      "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj",
       "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-      "outputPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Models\\obj\\",
+      "outputPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1205,8 +1205,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj": {
-              "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj"
+            "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj": {
+              "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj"
             }
           }
         }

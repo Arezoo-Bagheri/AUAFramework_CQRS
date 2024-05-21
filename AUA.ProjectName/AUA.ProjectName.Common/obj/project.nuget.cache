@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "57R+ZHPQ8klfuX1MOhp59VZx1aDzOIzLpSJplCZ3V4tYwEQr984WjYDRKm1HiGA/tUc8hs702l7R5S3EzkTEXA==",
+  "dgSpecHash": "+Yi3BsiKzQ6R5yCBY5x83xGUEQeORmlQ1gu30N2dVjWlhW+45Z073VAcbhy4h//3hSlluaz5HCDFRwGbZ4jNvQ==",
   "success": true,
-  "projectFilePath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj",
+  "projectFilePath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arezo\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\Arezo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

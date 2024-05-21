@@ -75,3 +75,16 @@ C:\Users\ABS\Desktop\AUAFramework_CQRS_DDD_Net8_v1_0\AUA.ProjectName\AUA.Project
 C:\Users\ABS\Desktop\AUAFramework_CQRS_DDD_Net8_v1_0\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\refint\AUA.ProjectName.Common.dll
 C:\Users\ABS\Desktop\AUAFramework_CQRS_DDD_Net8_v1_0\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\AUA.ProjectName.Common.pdb
 C:\Users\ABS\Desktop\AUAFramework_CQRS_DDD_Net8_v1_0\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\ref\AUA.ProjectName.Common.dll
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\bin\Debug\net8.0\AUA.ProjectName.Common.deps.json
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\bin\Debug\net8.0\AUA.ProjectName.Common.dll
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\bin\Debug\net8.0\AUA.ProjectName.Common.pdb
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\AUA.ProjectName.Common.csproj.AssemblyReference.cache
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\AUA.ProjectName.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\AUA.ProjectName.Common.AssemblyInfoInputs.cache
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\AUA.ProjectName.Common.AssemblyInfo.cs
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\AUA.ProjectName.Common.csproj.CoreCompileInputs.cache
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\AUA.ProjectName.Common.sourcelink.json
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\AUA.ProjectName.Common.dll
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\refint\AUA.ProjectName.Common.dll
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\AUA.ProjectName.Common.pdb
+D:\AUAFramework_CQRS\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net8.0\ref\AUA.ProjectName.Common.dll

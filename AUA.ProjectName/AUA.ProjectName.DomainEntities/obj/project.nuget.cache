@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1YIPc84M+TJqMWyadyCo3h11UV8kebu2QsCy+PxlCxeADWGHI8Q7MhgDgZikjxPztpIBZ9XD5HAzWhk6qghVgw==",
+  "dgSpecHash": "rYQe5E/Tia6HfsXtXTUafXOeVuQjucGUW6D3p/RFGLeksLr0RGmqpq0pbTQ0jfoP8OnuN2aaf1h+h1U4Dgq2SQ==",
   "success": true,
-  "projectFilePath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj",
+  "projectFilePath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arezo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
     "C:\\Users\\Arezo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",

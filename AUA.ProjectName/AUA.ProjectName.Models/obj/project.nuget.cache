@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vGnKM9+29bdtM+hgCP3q7HiOCA/OJbePqXBpE2/2W2yqbq79jHF6Yjc8eBMELoL8vHx3eVraWyRRDDhUMj7Iew==",
+  "dgSpecHash": "3Zq/+d6y6tu46JAMtH/3noRxrhCqfo+n0loHjTYBZ9/7gNM9gRIrWqp665yPaFdpi0QRp26aFyAJeco4ECwD9g==",
   "success": true,
-  "projectFilePath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj",
+  "projectFilePath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arezo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Arezo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",

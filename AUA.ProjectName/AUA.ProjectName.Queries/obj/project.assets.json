@@ -3672,11 +3672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Queries\\AUA.ProjectName.Queries.csproj",
+      "projectUniqueName": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Queries\\AUA.ProjectName.Queries.csproj",
       "projectName": "AUA.ProjectName.Queries",
-      "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Queries\\AUA.ProjectName.Queries.csproj",
+      "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Queries\\AUA.ProjectName.Queries.csproj",
       "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-      "outputPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Queries\\obj\\",
+      "outputPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Queries\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3696,11 +3696,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Infrastructure\\AUA.ProjectName.Infrastructure.csproj": {
-              "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Infrastructure\\AUA.ProjectName.Infrastructure.csproj"
+            "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Infrastructure\\AUA.ProjectName.Infrastructure.csproj": {
+              "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Infrastructure\\AUA.ProjectName.Infrastructure.csproj"
             },
-            "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj": {
-              "projectPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj"
+            "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj": {
+              "projectPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Models\\AUA.ProjectName.Models.csproj"
             }
           }
         }

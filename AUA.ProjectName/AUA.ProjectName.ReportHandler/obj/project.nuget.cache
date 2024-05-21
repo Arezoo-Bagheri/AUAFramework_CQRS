@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BVfgV0WwKoTg9NQDg1uxoGup1EzlFd0nIQXOi+0qGuS5AiKr/bE6BYwmoakmlIORYGva8N/nBld0TVkmdeLZJA==",
+  "dgSpecHash": "tfMFVdDdibUfkghperlptp+erXKsQ3SRqGZ2JdWJl8YpZwu9TmuBgDl0WN/F5fOHJvrAVGK116oGHnJBfDVzpA==",
   "success": true,
-  "projectFilePath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\AUA.ProjectName.ReportHandler\\AUA.ProjectName.ReportHandler.csproj",
+  "projectFilePath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.ReportHandler\\AUA.ProjectName.ReportHandler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arezo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Arezo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AUAFramework_CQRS\\AUAFramework_CQRS_DDD_Net8_v1_0\\AUA.ProjectName\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4C68B-E6CB-42BB-AB54-920699F10BAB}|AUA.ProjectName.DataLayer\\AUA.ProjectName.DataLayer.csproj|d:\\auaframework_cqrs\\aua.projectname\\aua.projectname.datalayer\\migrations\\20240521092337_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4C68B-E6CB-42BB-AB54-920699F10BAB}|AUA.ProjectName.DataLayer\\AUA.ProjectName.DataLayer.csproj|solutionrelative:aua.projectname.datalayer\\migrations\\20240521092337_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572E3726-C52C-4B92-8A9E-09E5B94139A8}|AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj|d:\\auaframework_cqrs\\aua.projectname\\aua.projectname.domainentities\\entitiesconfig\\school\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572E3726-C52C-4B92-8A9E-09E5B94139A8}|AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj|solutionrelative:aua.projectname.domainentities\\entitiesconfig\\school\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572E3726-C52C-4B92-8A9E-09E5B94139A8}|AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj|d:\\auaframework_cqrs\\aua.projectname\\aua.projectname.domainentities\\entitiesconfig\\accounting\\accountconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572E3726-C52C-4B92-8A9E-09E5B94139A8}|AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj|solutionrelative:aua.projectname.domainentities\\entitiesconfig\\accounting\\accountconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{572E3726-C52C-4B92-8A9E-09E5B94139A8}|AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj|d:\\auaframework_cqrs\\aua.projectname\\aua.projectname.domainentities\\entities\\school\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572E3726-C52C-4B92-8A9E-09E5B94139A8}|AUA.ProjectName.DomainEntities\\AUA.ProjectName.DomainEntities.csproj|solutionrelative:aua.projectname.domainentities\\entities\\school\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1EC85C-A9B7-4DE0-B4A7-1F93304A56EE}|AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj|d:\\auaframework_cqrs\\aua.projectname\\aua.projectname.common\\consts\\schemaconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1EC85C-A9B7-4DE0-B4A7-1F93304A56EE}|AUA.ProjectName.Common\\AUA.ProjectName.Common.csproj|solutionrelative:aua.projectname.common\\consts\\schemaconsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43239E2E-AE61-4EDB-A6F6-5ACEC5D25347}|AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj|d:\\auaframework_cqrs\\aua.projectname\\aua.projectname.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43239E2E-AE61-4EDB-A6F6-5ACEC5D25347}|AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj|solutionrelative:aua.projectname.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43239E2E-AE61-4EDB-A6F6-5ACEC5D25347}|AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj|d:\\auaframework_cqrs\\aua.projectname\\aua.projectname.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43239E2E-AE61-4EDB-A6F6-5ACEC5D25347}|AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj|solutionrelative:aua.projectname.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43239E2E-AE61-4EDB-A6F6-5ACEC5D25347}|AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj|d:\\auaframework_cqrs\\aua.projectname\\aua.projectname.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43239E2E-AE61-4EDB-A6F6-5ACEC5D25347}|AUA.ProjectName.WebApi\\AUA.ProjectName.WebApi.csproj|solutionrelative:aua.projectname.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +42,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240521092337_AddStudent.cs",
+              "DocumentMoniker": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DataLayer\\Migrations\\20240521092337_AddStudent.cs",
+              "RelativeDocumentMoniker": "AUA.ProjectName.DataLayer\\Migrations\\20240521092337_AddStudent.cs",
+              "ToolTip": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DataLayer\\Migrations\\20240521092337_AddStudent.cs",
+              "RelativeToolTip": "AUA.ProjectName.DataLayer\\Migrations\\20240521092337_AddStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:23:37.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountConfig.cs",
+              "DocumentMoniker": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\EntitiesConfig\\Accounting\\AccountConfig.cs",
+              "RelativeDocumentMoniker": "AUA.ProjectName.DomainEntities\\EntitiesConfig\\Accounting\\AccountConfig.cs",
+              "ToolTip": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\EntitiesConfig\\Accounting\\AccountConfig.cs",
+              "RelativeToolTip": "AUA.ProjectName.DomainEntities\\EntitiesConfig\\Accounting\\AccountConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:14:36.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentConfig.cs",
+              "DocumentMoniker": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\EntitiesConfig\\School\\StudentConfig.cs",
+              "RelativeDocumentMoniker": "AUA.ProjectName.DomainEntities\\EntitiesConfig\\School\\StudentConfig.cs",
+              "ToolTip": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\EntitiesConfig\\School\\StudentConfig.cs",
+              "RelativeToolTip": "AUA.ProjectName.DomainEntities\\EntitiesConfig\\School\\StudentConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:14:25.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchemaConsts.cs",
+              "DocumentMoniker": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Common\\Consts\\SchemaConsts.cs",
+              "RelativeDocumentMoniker": "AUA.ProjectName.Common\\Consts\\SchemaConsts.cs",
+              "ToolTip": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.Common\\Consts\\SchemaConsts.cs",
+              "RelativeToolTip": "AUA.ProjectName.Common\\Consts\\SchemaConsts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:11:06.076Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -18,6 +103,56 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\Entities\\School\\Student.cs",
+              "RelativeDocumentMoniker": "AUA.ProjectName.DomainEntities\\Entities\\School\\Student.cs",
+              "ToolTip": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.DomainEntities\\Entities\\School\\Student.cs",
+              "RelativeToolTip": "AUA.ProjectName.DomainEntities\\Entities\\School\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:06:16.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AUA.ProjectName.WebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "AUA.ProjectName.WebApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T13:16:34.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AUA.ProjectName.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AUA.ProjectName.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T13:08:31.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AUA.ProjectName.WebApi\\appsettings.json",
+              "ToolTip": "D:\\AUAFramework_CQRS\\AUA.ProjectName\\AUA.ProjectName.WebApi\\appsettings.json",
+              "RelativeToolTip": "AUA.ProjectName.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T13:08:11.271Z"
             }
           ]
         }

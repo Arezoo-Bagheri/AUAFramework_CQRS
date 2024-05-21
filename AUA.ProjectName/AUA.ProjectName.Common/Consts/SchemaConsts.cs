@@ -4,10 +4,10 @@
     {
 
         public const string Accounting = "acc";
+        public const string School = "School";
 
-        public const string Student = "stu";
 
-        public const string Products = "products";
+
 
 
 
