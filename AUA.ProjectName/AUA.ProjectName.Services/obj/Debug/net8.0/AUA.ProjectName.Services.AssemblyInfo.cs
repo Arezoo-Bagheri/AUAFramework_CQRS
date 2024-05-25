@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AUA.ProjectName.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efb91239fb0d7efe835326c4e7814701b4a7fd13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b64d628b7536f7d22a46a349c6587f14f5ebaa46")]
 [assembly: System.Reflection.AssemblyProductAttribute("AUA.ProjectName.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AUA.ProjectName.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
