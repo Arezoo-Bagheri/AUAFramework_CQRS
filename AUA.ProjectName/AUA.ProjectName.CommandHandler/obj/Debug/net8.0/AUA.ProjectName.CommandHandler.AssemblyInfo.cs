@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AUA.ProjectName.CommandHandler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b64d628b7536f7d22a46a349c6587f14f5ebaa46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14ce678abdf740404aa75b74978ea3912ce575e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AUA.ProjectName.CommandHandler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AUA.ProjectName.CommandHandler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
