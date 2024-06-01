@@ -40,7 +40,8 @@ namespace AUA.ProjectName.CommandHandler.CommandHandlers.School.StudentCommandHa
             {
                 FirstName = _request.FirstName,
                 LastName = _request.LastName,
-                CreatorUserId = _request.UserCreatorId
+                CreatorUserId = _request.UserCreatorId , 
+                IsActive = true
             };
 
         }
