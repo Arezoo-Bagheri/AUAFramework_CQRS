@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AUA.ProjectName.Queries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f63e28cb08956f096b42191364c8c54d226ba55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3e04a3b76b8b879233ec6665afb78bbd9b2e23e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AUA.ProjectName.Queries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AUA.ProjectName.Queries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
